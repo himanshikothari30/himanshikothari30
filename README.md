@@ -5,7 +5,10 @@
 💻 Practicing DSA on LeetCode daily in C++
 
 ## 🛠️ Skills
+## 🛠️ Skills
 - C++
+- C
+- Python 
 - DSA (Arrays, Strings, Greedy Algorithms)
 
 ## 📂 My Repositories
