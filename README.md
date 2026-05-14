@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Himanshi! 👋
 
-<!--
-**himanshikothari30/himanshikothari30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE | 1st Year
+📚 Currently learning DSA + Web Development 
+💻 Practicing DSA on LeetCode daily in C++
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C++
+- DSA (Arrays, Strings, Greedy Algorithms)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Repositories
+- 🔢 [LeetCode Solutions](https://github.com/himanshikothari30/LEETCODE) - Topic wise DSA practice
+
+## 🎯 Goals
+- Master DSA by end of 2026
+- Build strong Web Dev projects
+- Land a good internship
+
+## 📫 Connect with me
+- GitHub: [@himanshikothari30](https://github.com/himanshikothari30)
+- LinkedIn: [Himanshi Kothari](https://www.linkedin.com/in/himanshi-kothari-451760360)
