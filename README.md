@@ -9,6 +9,7 @@
 - C
 - Python 
 - DSA (Arrays, Strings, Greedy Algorithms)
+- HTML
 
 ## 📂 My Repositories
 - 🔢 [LeetCode Solutions](https://github.com/himanshikothari30/LEETCODE) - Topic wise DSA practice
