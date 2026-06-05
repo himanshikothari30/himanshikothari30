@@ -8,8 +8,10 @@
 - C++
 - C
 - Python 
-- DSA (Arrays, Strings, Greedy Algorithms)
+- DSA 
 - HTML
+- OOPS
+- OS
 
 ## 📂 My Repositories
 - 🔢 [LeetCode Solutions](https://github.com/himanshikothari30/LEETCODE) - Topic wise DSA practice
