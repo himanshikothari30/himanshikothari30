@@ -10,6 +10,7 @@
 - Python 
 - DSA 
 - HTML
+- CSS
 - OOPS
 - OS
 
