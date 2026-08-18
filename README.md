@@ -7,13 +7,17 @@
 ## 🛠️ Skills
 - C++
 - C
-- Python
 - Java
 - DSA 
 - HTML
 - CSS
-- OOPS
-- OS
+- javascript (js)
+- node.js
+- express.js
+- sql
+- mongodb
+- OOPS ( java & c++ ) 
+- dbms
 
 ## 📂 My Repositories
 - 🔢 [LeetCode Solutions](https://github.com/himanshikothari30/LEETCODE) - Topic wise DSA practice
